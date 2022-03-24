@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Kadir -->
+## 👋 &nbsp;Hey there! I'm Kadir 
 
 ### 👨🏻‍💻 &nbsp;About Me
 I'm a Computer Engineering student. I am currently working on software architectures and devops. I learn AWS, Google Cloud services from cloud providers. I've been dealing with software for over 3 years. My current favorite languages are go and python.
